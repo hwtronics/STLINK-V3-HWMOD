@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2020-04-03T14:53:18Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.5.2"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.586,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "stlink-v3-hwmod"
+        },
+        "Owner": "Michele Gazzarri <michelegazzarri@icloud.com>",
+        "Size": {
+            "X": 32,
+            "Y": 54.5
+        }
+    }
+}
