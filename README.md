@@ -7,16 +7,18 @@ Custom developed board that allow you to use the new STLINK-V3MODS with the Tag-
 ![TOP](CAD/images/TOP.png)
 ![BOTTOM](CAD/images/BOTTOM.png)
 
-##Prerequisite
+## Prerequisite
 Autodesk Eagle
 
-## Meta
+## Social Media Links
 
-hwtronics – [@hwtronics](https://www.instagram.com/hwtronics/) – info@hwtronics.com
+Instagram: [@hwtronics](https://www.instagram.com/hwtronics/)
+Facebook: [@hwtronics](https://www.facebook.com/hwtronics/)
+Twitter: [@hwtronics](https://twitter.com/hwtronics)
 
 Distributed under the GNU General Public License v3.0 license. See ``LICENSE`` for more information.
 
-For any further info please contact us!!!
+For any further info please contact us by email: info@hwtronics.com !!!
 
 
 ## Contributors
