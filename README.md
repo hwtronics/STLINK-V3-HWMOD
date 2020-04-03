@@ -4,8 +4,8 @@ Custom developed board that allow you to use the new STLINK-V3MODS with the Tag-
 
 ## Preview of the board:
 
-![TOP](CAD/images/TOP.png)
-![BOTTOM](CAD/images/BOTTOM.png)
+![TOP](CAD/images/design_top.png)
+![BOTTOM](CAD/images/design_bottom.png)
 
 ## Prerequisite
 Autodesk Eagle
